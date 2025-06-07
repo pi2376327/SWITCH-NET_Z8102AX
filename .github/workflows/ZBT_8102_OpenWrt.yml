@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: ZBT_8102 OpenWrt
+name: ZBT_z8102_SDWAN
 
 on:
   repository_dispatch:
