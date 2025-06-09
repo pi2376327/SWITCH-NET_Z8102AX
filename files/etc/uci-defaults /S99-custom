@@ -80,9 +80,9 @@ EOI
 
 #更改诊断页面默认显示的域名
 uci -q batch <<EOI
-set luci.diag.dns='szyywx.cn'
-set luci.diag.ping='szyywx.cn'
-set luci.diag.route='szyywx.cn'
+set luci.diag.dns='119.29.29.29'
+set luci.diag.ping='119.29.29.29'
+set luci.diag.route='119.29.29.29'
 commit luci.diag
 EOI
 
