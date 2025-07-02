@@ -50,7 +50,7 @@ set wireless.default_radio0.key='szyywx.cn'
 set wireless.radio1.country='US'
 set wireless.radio1.channel='149'
 set wireless.radio1.htmode='VHT40'
-set wireless.default_radio1.ssid='YYWX-SDWAN'
+set wireless.default_radio1.ssid='YYWX-SDWAN-5G'
 set wireless.default_radio1.encryption='psk2'
 set wireless.default_radio1.key='szyywx.cn'
 commit wireless
