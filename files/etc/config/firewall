@@ -3,7 +3,6 @@ config defaults
         option output 'ACCEPT'
         option forward 'ACCEPT'
         option drop_invalid '1'
-        option fullcone '2'
 
 config zone
         option name 'lan'
@@ -17,7 +16,7 @@ config zone
         option output 'ACCEPT'
         option masq '1'
         option mtu_fix '1'
-        option network 'wan wan6'
+        option network 'wan'
         option input 'ACCEPT'
         option forward 'ACCEPT'
 
