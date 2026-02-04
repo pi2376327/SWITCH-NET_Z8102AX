@@ -1,7 +1,7 @@
 config rtty
 #   option  interface   'Default'
     option  id          'Default'
-    option  description 'ZBT-Z8102AX'
+    option  description 'SWITCH-Z8102AX'
     option  host        'rtty.switch-net.com'  
     option  port        '5912'                              
     option  token       'switch-net.com'    
